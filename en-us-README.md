@@ -2,7 +2,7 @@
 
 ### JDragon 👋
 - [中文(zh-cn)](/README.md) | English(en-us)
-- 🧑‍💻 [职业]iOS Development Engineer
+- 🧑‍💻 iOS Development Engineer
 - 😄 [Personal technology blog](https://lyc59621.github.io/Blog/)
 - You can still find me in these places:
 - [GitHub](https://github.com/lyc59621)
