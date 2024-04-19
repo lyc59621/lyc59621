@@ -2,9 +2,9 @@
 
 ### JDragon 👋
 - 简体中文(zh-cn) | [English(en-us)](/en-us-README.md)
-- 🧑‍💻 [职业]iOS开发工程师
-- 🌱 [当前学习]啥也看
-- 💼 [工作]宇宙集团
+- 🧑‍💻 iOS开发工程师
+- 🌱 啥也看
+- 💼 宇宙集团
 - 😄 [个人博客](https://lyc59621.github.io/Blog/)
 - 还可以在这些地方找到我：
 - [GitHub](https://github.com/lyc59621)
